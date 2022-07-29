@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar style  */
+.nav-name {
+    font-weight: 600;
+    font-size: 40px;
+    color: #4A4A4A;
+}
+
+.btn-name {
+    color: #289BDE;
+    font-weight: bold;
+    border: 1px solid #289BDE;
+}
+
+
+/* carousel style  */
+
+.carousel h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.car-but {
+    color: white;
+    background-color: #289BDE;
+
+}
+
+/* courses style  */
+
+.courses {
+    margin-top: 130px;
+}
+
+.courses h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.courses .para {
+    margin: 30px auto;
+    text-align: center;
+    width: 600px;
+    color: #777777;
+}
+
+.coll h5 {
+    font-weight: bold;
+}
+
+.coll p {
+    color: #777777;
+}
+
+
+.price {
+    font-weight: bold !important;
+    color: #289BDE !important;
+}
+
+
+/* join styles  */
+
+
+.join {
+    background-color: #289BDE;
+    margin-bottom: 130px;
+}
+
+.join-para {
+    width: 527px;
+}
+
+.join-btn {
+    background-color: white !important;
+    color: #289BDE !important;
+    font-weight: bold !important;
+}
+
+
+/* ques start  */
+
+
+.ques h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.ques .para {
+    margin: 30px auto;
+    text-align: center;
+    width: 600px;
+    color: #777777;
+}
+
+.ques {
+    margin-bottom: 130px;
+}
+
+
+/* companies styles  */
+.comp {
+    margin-bottom: 130px;
+}
+
+
+.comp h1 {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+/* footer styles  */
+
+footer {
+    background-color: #161616;
+    text-align: center;
+    padding: 130px 0;
+}
+
+footer h1 {
+    color: white;
+    font-weight: bold;
+}
+
+footer p {
+    color: white;
+}
+
+
+i {
+    color: white;
+    background-color: #242424;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 50%;
+}
